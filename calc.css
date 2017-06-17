@@ -1,0 +1,19 @@
+body {
+  background-color: green;
+}
+
+#calculator {
+  background-color: lightgreen;
+  width: 900px;
+  height: 300px;
+}
+
+#calc-field {
+  width: 300px;
+  height: 200px;
+}
+
+#sum {
+  width: 100px;
+  height: 20px;
+}
